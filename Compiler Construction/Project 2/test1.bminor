@@ -1,8 +1,0 @@
-main: function integer (a: integer) = {
-    x:integer = 5;
-	y:integer = 4;
-    if(x > y){
-        x = 5;
-        s: string = "test string";
-	}
-}
