@@ -1,0 +1,2588 @@
+Device Boot Report
+
+InTouch log file: kronos/device3_intouch.log
+Line scanned: 41855
+
+Device boot count: initiated = 25, completed: 10
+
+
+=== Device boot ===
+31063(kronos/device3_intouch.log) 2014-01-26 09:55:07 Boot Start
+31176(kronos/device3_intouch.log) 2014-01-26 09:58:04 Boot Completed
+	Boot Time: 177000 ms
+
+Services
+	Logging
+		 Started: 31079(kronos/device3_intouch.log)
+		 Completed: 31080(kronos/device3_intouch.log)
+		 Elapsed Time: 268 ms
+	DatabaseInitialize
+		 Started: 31081(kronos/device3_intouch.log)
+		 Completed: 31109(kronos/device3_intouch.log)
+		 Elapsed Time: 44465 ms
+	MessagingService
+		 Started: 31110(kronos/device3_intouch.log)
+		 Completed: 31112(kronos/device3_intouch.log)
+		 Elapsed Time: 5647 ms
+	HealthMonitorService
+		 Started: 31126(kronos/device3_intouch.log)
+		 Completed: 31127(kronos/device3_intouch.log)
+		 Elapsed Time: 234 ms
+	Persistence
+		 Started: 31128(kronos/device3_intouch.log)
+		 Completed: 31129(kronos/device3_intouch.log)
+		 Elapsed Time: 21260 ms
+	ConfigurationService
+		 Started: 31130(kronos/device3_intouch.log)
+		 Completed: 31131(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 31132(kronos/device3_intouch.log)
+		 Completed: 31133(kronos/device3_intouch.log)
+		 Elapsed Time: 828 ms
+	ThemingService
+		 Started: 31134(kronos/device3_intouch.log)
+		 Completed: 31135(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	PortConfigurationService
+		 Started: 31136(kronos/device3_intouch.log)
+		 Completed: 31137(kronos/device3_intouch.log)
+		 Elapsed Time: 81 ms
+	LandingPadService
+		 Started: 31138(kronos/device3_intouch.log)
+		 Completed: 31139(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	DeviceIOService
+		 Started: 31140(kronos/device3_intouch.log)
+		 Completed: 31141(kronos/device3_intouch.log)
+		 Elapsed Time: 43 ms
+	StagingService
+		 Started: 31142(kronos/device3_intouch.log)
+		 Completed: 31143(kronos/device3_intouch.log)
+		 Elapsed Time: 6734 ms
+	GateService
+		 Started: 31144(kronos/device3_intouch.log)
+		 Completed: 31145(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	AVFeedbackService
+		 Started: 31146(kronos/device3_intouch.log)
+		 Completed: 31147(kronos/device3_intouch.log)
+		 Elapsed Time: 161 ms
+	ReaderDataService
+		 Started: 31148(kronos/device3_intouch.log)
+		 Completed: 31149(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 31150(kronos/device3_intouch.log)
+		 Completed: 31151(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	StateManager
+		 Started: 31152(kronos/device3_intouch.log)
+		 Completed: 31153(kronos/device3_intouch.log)
+		 Elapsed Time: 1584 ms
+	OfflineSmartviewService
+		 Started: 31154(kronos/device3_intouch.log)
+		 Completed: 31155(kronos/device3_intouch.log)
+		 Elapsed Time: 14 ms
+	DatabaseThreads
+		 Started: 31156(kronos/device3_intouch.log)
+		 Completed: 31166(kronos/device3_intouch.log)
+		 Elapsed Time: 4548 ms
+	ProtocolService
+		 Started: 31157(kronos/device3_intouch.log)
+		 Completed: 31171(kronos/device3_intouch.log)
+		 Elapsed Time: 12305 ms
+	SoftLoadService
+		 Started: 31159(kronos/device3_intouch.log)
+		 Completed: 31164(kronos/device3_intouch.log)
+		 Elapsed Time: 2617 ms
+	WATCHDOG
+		 Started: 31160(kronos/device3_intouch.log)
+		 Completed: 31163(kronos/device3_intouch.log)
+		 Elapsed Time: 358 ms
+	DiagnosticsService
+		 Started: 31161(kronos/device3_intouch.log)
+		 Completed: 31162(kronos/device3_intouch.log)
+		 Elapsed Time: 179 ms
+
+=== Device boot ===
+31274(kronos/device3_intouch.log) 2014-01-26 12:15:18 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+31293(kronos/device3_intouch.log) 2014-01-26 14:02:39 Boot Start
+31401(kronos/device3_intouch.log) 2014-01-26 14:05:24 Boot Completed
+	Boot Time: 165000 ms
+
+Services
+	Logging
+		 Started: 31309(kronos/device3_intouch.log)
+		 Completed: 31310(kronos/device3_intouch.log)
+		 Elapsed Time: 267 ms
+	DatabaseInitialize
+		 Started: 31311(kronos/device3_intouch.log)
+		 Completed: 31335(kronos/device3_intouch.log)
+		 Elapsed Time: 32010 ms
+	MessagingService
+		 Started: 31336(kronos/device3_intouch.log)
+		 Completed: 31338(kronos/device3_intouch.log)
+		 Elapsed Time: 6167 ms
+	HealthMonitorService
+		 Started: 31351(kronos/device3_intouch.log)
+		 Completed: 31352(kronos/device3_intouch.log)
+		 Elapsed Time: 204 ms
+	Persistence
+		 Started: 31353(kronos/device3_intouch.log)
+		 Completed: 31354(kronos/device3_intouch.log)
+		 Elapsed Time: 17595 ms
+	ConfigurationService
+		 Started: 31355(kronos/device3_intouch.log)
+		 Completed: 31356(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 31357(kronos/device3_intouch.log)
+		 Completed: 31358(kronos/device3_intouch.log)
+		 Elapsed Time: 878 ms
+	ThemingService
+		 Started: 31359(kronos/device3_intouch.log)
+		 Completed: 31360(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	PortConfigurationService
+		 Started: 31379(kronos/device3_intouch.log)
+		 Completed: 31380(kronos/device3_intouch.log)
+		 Elapsed Time: 62 ms
+	LandingPadService
+		 Started: 31361(kronos/device3_intouch.log)
+		 Completed: 31362(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	DeviceIOService
+		 Started: 31365(kronos/device3_intouch.log)
+		 Completed: 31366(kronos/device3_intouch.log)
+		 Elapsed Time: 22 ms
+	StagingService
+		 Started: 31363(kronos/device3_intouch.log)
+		 Completed: 31364(kronos/device3_intouch.log)
+		 Elapsed Time: 7875 ms
+	GateService
+		 Started: 31375(kronos/device3_intouch.log)
+		 Completed: 31376(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	AVFeedbackService
+		 Started: 31381(kronos/device3_intouch.log)
+		 Completed: 31382(kronos/device3_intouch.log)
+		 Elapsed Time: 192 ms
+	ReaderDataService
+		 Started: 31369(kronos/device3_intouch.log)
+		 Completed: 31370(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 31373(kronos/device3_intouch.log)
+		 Completed: 31374(kronos/device3_intouch.log)
+		 Elapsed Time: 3 ms
+	StateManager
+		 Started: 31371(kronos/device3_intouch.log)
+		 Completed: 31372(kronos/device3_intouch.log)
+		 Elapsed Time: 2324 ms
+	OfflineSmartviewService
+		 Started: 31377(kronos/device3_intouch.log)
+		 Completed: 31378(kronos/device3_intouch.log)
+		 Elapsed Time: 14 ms
+	DatabaseThreads
+		 Started: 31384(kronos/device3_intouch.log)
+		 Completed: 31396(kronos/device3_intouch.log)
+		 Elapsed Time: 2986 ms
+	ProtocolService
+		 Started: 31385(kronos/device3_intouch.log)
+		 Completed: 31403(kronos/device3_intouch.log)
+		 Elapsed Time: 9189 ms
+	SoftLoadService
+		 Started: 31388(kronos/device3_intouch.log)
+		 Completed: 31397(kronos/device3_intouch.log)
+		 Elapsed Time: 2992 ms
+	WATCHDOG
+		 Started: 31389(kronos/device3_intouch.log)
+		 Completed: 31390(kronos/device3_intouch.log)
+		 Elapsed Time: 241 ms
+	DiagnosticsService
+		 Started: 31387(kronos/device3_intouch.log)
+		 Completed: 31391(kronos/device3_intouch.log)
+		 Elapsed Time: 294 ms
+
+=== Device boot ===
+32623(kronos/device3_intouch.log) 2014-01-27 12:27:55 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+32641(kronos/device3_intouch.log) 2014-01-27 12:30:23 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+32656(kronos/device3_intouch.log) 2014-01-27 12:32:51 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+32674(kronos/device3_intouch.log) 2014-01-27 12:35:19 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+32693(kronos/device3_intouch.log) 2014-01-27 14:02:38 Boot Start
+32801(kronos/device3_intouch.log) 2014-01-27 14:05:21 Boot Completed
+	Boot Time: 163000 ms
+
+Services
+	Logging
+		 Started: 32709(kronos/device3_intouch.log)
+		 Completed: 32710(kronos/device3_intouch.log)
+		 Elapsed Time: 269 ms
+	DatabaseInitialize
+		 Started: 32711(kronos/device3_intouch.log)
+		 Completed: 32735(kronos/device3_intouch.log)
+		 Elapsed Time: 31621 ms
+	MessagingService
+		 Started: 32736(kronos/device3_intouch.log)
+		 Completed: 32738(kronos/device3_intouch.log)
+		 Elapsed Time: 5923 ms
+	HealthMonitorService
+		 Started: 32751(kronos/device3_intouch.log)
+		 Completed: 32752(kronos/device3_intouch.log)
+		 Elapsed Time: 230 ms
+	Persistence
+		 Started: 32753(kronos/device3_intouch.log)
+		 Completed: 32754(kronos/device3_intouch.log)
+		 Elapsed Time: 17202 ms
+	ConfigurationService
+		 Started: 32755(kronos/device3_intouch.log)
+		 Completed: 32756(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 32765(kronos/device3_intouch.log)
+		 Completed: 32766(kronos/device3_intouch.log)
+		 Elapsed Time: 905 ms
+	ThemingService
+		 Started: 32781(kronos/device3_intouch.log)
+		 Completed: 32782(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	PortConfigurationService
+		 Started: 32757(kronos/device3_intouch.log)
+		 Completed: 32758(kronos/device3_intouch.log)
+		 Elapsed Time: 63 ms
+	LandingPadService
+		 Started: 32759(kronos/device3_intouch.log)
+		 Completed: 32760(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	DeviceIOService
+		 Started: 32761(kronos/device3_intouch.log)
+		 Completed: 32762(kronos/device3_intouch.log)
+		 Elapsed Time: 22 ms
+	StagingService
+		 Started: 32769(kronos/device3_intouch.log)
+		 Completed: 32770(kronos/device3_intouch.log)
+		 Elapsed Time: 7601 ms
+	GateService
+		 Started: 32763(kronos/device3_intouch.log)
+		 Completed: 32764(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	AVFeedbackService
+		 Started: 32767(kronos/device3_intouch.log)
+		 Completed: 32768(kronos/device3_intouch.log)
+		 Elapsed Time: 156 ms
+	ReaderDataService
+		 Started: 32777(kronos/device3_intouch.log)
+		 Completed: 32778(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 32775(kronos/device3_intouch.log)
+		 Completed: 32776(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	StateManager
+		 Started: 32773(kronos/device3_intouch.log)
+		 Completed: 32774(kronos/device3_intouch.log)
+		 Elapsed Time: 2299 ms
+	OfflineSmartviewService
+		 Started: 32779(kronos/device3_intouch.log)
+		 Completed: 32780(kronos/device3_intouch.log)
+		 Elapsed Time: 15 ms
+	DatabaseThreads
+		 Started: 32784(kronos/device3_intouch.log)
+		 Completed: 32796(kronos/device3_intouch.log)
+		 Elapsed Time: 3074 ms
+	ProtocolService
+		 Started: 32785(kronos/device3_intouch.log)
+		 Completed: 32803(kronos/device3_intouch.log)
+		 Elapsed Time: 8419 ms
+	SoftLoadService
+		 Started: 32786(kronos/device3_intouch.log)
+		 Completed: 32794(kronos/device3_intouch.log)
+		 Elapsed Time: 2507 ms
+	WATCHDOG
+		 Started: 32787(kronos/device3_intouch.log)
+		 Completed: 32790(kronos/device3_intouch.log)
+		 Elapsed Time: 22 ms
+	DiagnosticsService
+		 Started: 32789(kronos/device3_intouch.log)
+		 Completed: 32791(kronos/device3_intouch.log)
+		 Elapsed Time: 236 ms
+
+=== Device boot ===
+33709(kronos/device3_intouch.log) 2014-01-28 12:44:17 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+33725(kronos/device3_intouch.log) 2014-01-28 14:02:33 Boot Start
+33833(kronos/device3_intouch.log) 2014-01-28 14:05:15 Boot Completed
+	Boot Time: 162000 ms
+
+Services
+	Logging
+		 Started: 33741(kronos/device3_intouch.log)
+		 Completed: 33742(kronos/device3_intouch.log)
+		 Elapsed Time: 273 ms
+	DatabaseInitialize
+		 Started: 33743(kronos/device3_intouch.log)
+		 Completed: 33767(kronos/device3_intouch.log)
+		 Elapsed Time: 31220 ms
+	MessagingService
+		 Started: 33768(kronos/device3_intouch.log)
+		 Completed: 33770(kronos/device3_intouch.log)
+		 Elapsed Time: 5918 ms
+	HealthMonitorService
+		 Started: 33783(kronos/device3_intouch.log)
+		 Completed: 33784(kronos/device3_intouch.log)
+		 Elapsed Time: 182 ms
+	Persistence
+		 Started: 33785(kronos/device3_intouch.log)
+		 Completed: 33786(kronos/device3_intouch.log)
+		 Elapsed Time: 17472 ms
+	ConfigurationService
+		 Started: 33787(kronos/device3_intouch.log)
+		 Completed: 33788(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 33797(kronos/device3_intouch.log)
+		 Completed: 33798(kronos/device3_intouch.log)
+		 Elapsed Time: 918 ms
+	ThemingService
+		 Started: 33813(kronos/device3_intouch.log)
+		 Completed: 33814(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	PortConfigurationService
+		 Started: 33789(kronos/device3_intouch.log)
+		 Completed: 33790(kronos/device3_intouch.log)
+		 Elapsed Time: 53 ms
+	LandingPadService
+		 Started: 33791(kronos/device3_intouch.log)
+		 Completed: 33792(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	DeviceIOService
+		 Started: 33793(kronos/device3_intouch.log)
+		 Completed: 33794(kronos/device3_intouch.log)
+		 Elapsed Time: 20 ms
+	StagingService
+		 Started: 33801(kronos/device3_intouch.log)
+		 Completed: 33802(kronos/device3_intouch.log)
+		 Elapsed Time: 7757 ms
+	GateService
+		 Started: 33795(kronos/device3_intouch.log)
+		 Completed: 33796(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	AVFeedbackService
+		 Started: 33799(kronos/device3_intouch.log)
+		 Completed: 33800(kronos/device3_intouch.log)
+		 Elapsed Time: 184 ms
+	ReaderDataService
+		 Started: 33809(kronos/device3_intouch.log)
+		 Completed: 33810(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 33807(kronos/device3_intouch.log)
+		 Completed: 33808(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	StateManager
+		 Started: 33805(kronos/device3_intouch.log)
+		 Completed: 33806(kronos/device3_intouch.log)
+		 Elapsed Time: 2215 ms
+	OfflineSmartviewService
+		 Started: 33811(kronos/device3_intouch.log)
+		 Completed: 33812(kronos/device3_intouch.log)
+		 Elapsed Time: 22 ms
+	DatabaseThreads
+		 Started: 33816(kronos/device3_intouch.log)
+		 Completed: 33829(kronos/device3_intouch.log)
+		 Elapsed Time: 2732 ms
+	ProtocolService
+		 Started: 33818(kronos/device3_intouch.log)
+		 Completed: 33835(kronos/device3_intouch.log)
+		 Elapsed Time: 8400 ms
+	SoftLoadService
+		 Started: 33817(kronos/device3_intouch.log)
+		 Completed: 33828(kronos/device3_intouch.log)
+		 Elapsed Time: 2655 ms
+	WATCHDOG
+		 Started: 33819(kronos/device3_intouch.log)
+		 Completed: 33823(kronos/device3_intouch.log)
+		 Elapsed Time: 279 ms
+	DiagnosticsService
+		 Started: 33821(kronos/device3_intouch.log)
+		 Completed: 33822(kronos/device3_intouch.log)
+		 Elapsed Time: 153 ms
+
+=== Device boot ===
+34594(kronos/device3_intouch.log) 2014-01-29 12:43:07 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+34613(kronos/device3_intouch.log) 2014-01-29 14:02:35 Boot Start
+34721(kronos/device3_intouch.log) 2014-01-29 14:05:19 Boot Completed
+	Boot Time: 164000 ms
+
+Services
+	Logging
+		 Started: 34629(kronos/device3_intouch.log)
+		 Completed: 34630(kronos/device3_intouch.log)
+		 Elapsed Time: 313 ms
+	DatabaseInitialize
+		 Started: 34631(kronos/device3_intouch.log)
+		 Completed: 34655(kronos/device3_intouch.log)
+		 Elapsed Time: 32029 ms
+	MessagingService
+		 Started: 34656(kronos/device3_intouch.log)
+		 Completed: 34658(kronos/device3_intouch.log)
+		 Elapsed Time: 7815 ms
+	HealthMonitorService
+		 Started: 34671(kronos/device3_intouch.log)
+		 Completed: 34672(kronos/device3_intouch.log)
+		 Elapsed Time: 178 ms
+	Persistence
+		 Started: 34673(kronos/device3_intouch.log)
+		 Completed: 34674(kronos/device3_intouch.log)
+		 Elapsed Time: 17133 ms
+	ConfigurationService
+		 Started: 34675(kronos/device3_intouch.log)
+		 Completed: 34676(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 34685(kronos/device3_intouch.log)
+		 Completed: 34686(kronos/device3_intouch.log)
+		 Elapsed Time: 1108 ms
+	ThemingService
+		 Started: 34701(kronos/device3_intouch.log)
+		 Completed: 34702(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	PortConfigurationService
+		 Started: 34677(kronos/device3_intouch.log)
+		 Completed: 34678(kronos/device3_intouch.log)
+		 Elapsed Time: 58 ms
+	LandingPadService
+		 Started: 34679(kronos/device3_intouch.log)
+		 Completed: 34680(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	DeviceIOService
+		 Started: 34681(kronos/device3_intouch.log)
+		 Completed: 34682(kronos/device3_intouch.log)
+		 Elapsed Time: 34 ms
+	StagingService
+		 Started: 34689(kronos/device3_intouch.log)
+		 Completed: 34690(kronos/device3_intouch.log)
+		 Elapsed Time: 7704 ms
+	GateService
+		 Started: 34683(kronos/device3_intouch.log)
+		 Completed: 34684(kronos/device3_intouch.log)
+		 Elapsed Time: 3 ms
+	AVFeedbackService
+		 Started: 34687(kronos/device3_intouch.log)
+		 Completed: 34688(kronos/device3_intouch.log)
+		 Elapsed Time: 179 ms
+	ReaderDataService
+		 Started: 34697(kronos/device3_intouch.log)
+		 Completed: 34698(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 34695(kronos/device3_intouch.log)
+		 Completed: 34696(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	StateManager
+		 Started: 34693(kronos/device3_intouch.log)
+		 Completed: 34694(kronos/device3_intouch.log)
+		 Elapsed Time: 2112 ms
+	OfflineSmartviewService
+		 Started: 34699(kronos/device3_intouch.log)
+		 Completed: 34700(kronos/device3_intouch.log)
+		 Elapsed Time: 51 ms
+	DatabaseThreads
+		 Started: 34705(kronos/device3_intouch.log)
+		 Completed: 34715(kronos/device3_intouch.log)
+		 Elapsed Time: 2587 ms
+	ProtocolService
+		 Started: 34706(kronos/device3_intouch.log)
+		 Completed: 34723(kronos/device3_intouch.log)
+		 Elapsed Time: 8305 ms
+	SoftLoadService
+		 Started: 34707(kronos/device3_intouch.log)
+		 Completed: 34718(kronos/device3_intouch.log)
+		 Elapsed Time: 2854 ms
+	WATCHDOG
+		 Started: 34708(kronos/device3_intouch.log)
+		 Completed: 34712(kronos/device3_intouch.log)
+		 Elapsed Time: 278 ms
+	DiagnosticsService
+		 Started: 34710(kronos/device3_intouch.log)
+		 Completed: 34711(kronos/device3_intouch.log)
+		 Elapsed Time: 177 ms
+
+=== Device boot ===
+37428(kronos/device3_intouch.log) 2014-01-30 12:43:05 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+37447(kronos/device3_intouch.log) 2014-01-30 14:02:40 Boot Start
+37555(kronos/device3_intouch.log) 2014-01-30 14:05:22 Boot Completed
+	Boot Time: 162000 ms
+
+Services
+	Logging
+		 Started: 37463(kronos/device3_intouch.log)
+		 Completed: 37464(kronos/device3_intouch.log)
+		 Elapsed Time: 271 ms
+	DatabaseInitialize
+		 Started: 37465(kronos/device3_intouch.log)
+		 Completed: 37489(kronos/device3_intouch.log)
+		 Elapsed Time: 31643 ms
+	MessagingService
+		 Started: 37490(kronos/device3_intouch.log)
+		 Completed: 37492(kronos/device3_intouch.log)
+		 Elapsed Time: 5902 ms
+	HealthMonitorService
+		 Started: 37505(kronos/device3_intouch.log)
+		 Completed: 37506(kronos/device3_intouch.log)
+		 Elapsed Time: 198 ms
+	Persistence
+		 Started: 37507(kronos/device3_intouch.log)
+		 Completed: 37508(kronos/device3_intouch.log)
+		 Elapsed Time: 17076 ms
+	ConfigurationService
+		 Started: 37509(kronos/device3_intouch.log)
+		 Completed: 37510(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 37519(kronos/device3_intouch.log)
+		 Completed: 37520(kronos/device3_intouch.log)
+		 Elapsed Time: 1081 ms
+	ThemingService
+		 Started: 37535(kronos/device3_intouch.log)
+		 Completed: 37536(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	PortConfigurationService
+		 Started: 37511(kronos/device3_intouch.log)
+		 Completed: 37512(kronos/device3_intouch.log)
+		 Elapsed Time: 66 ms
+	LandingPadService
+		 Started: 37513(kronos/device3_intouch.log)
+		 Completed: 37514(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	DeviceIOService
+		 Started: 37515(kronos/device3_intouch.log)
+		 Completed: 37516(kronos/device3_intouch.log)
+		 Elapsed Time: 23 ms
+	StagingService
+		 Started: 37523(kronos/device3_intouch.log)
+		 Completed: 37524(kronos/device3_intouch.log)
+		 Elapsed Time: 7814 ms
+	GateService
+		 Started: 37517(kronos/device3_intouch.log)
+		 Completed: 37518(kronos/device3_intouch.log)
+		 Elapsed Time: 3 ms
+	AVFeedbackService
+		 Started: 37521(kronos/device3_intouch.log)
+		 Completed: 37522(kronos/device3_intouch.log)
+		 Elapsed Time: 169 ms
+	ReaderDataService
+		 Started: 37531(kronos/device3_intouch.log)
+		 Completed: 37532(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 37529(kronos/device3_intouch.log)
+		 Completed: 37530(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	StateManager
+		 Started: 37527(kronos/device3_intouch.log)
+		 Completed: 37528(kronos/device3_intouch.log)
+		 Elapsed Time: 2073 ms
+	OfflineSmartviewService
+		 Started: 37533(kronos/device3_intouch.log)
+		 Completed: 37534(kronos/device3_intouch.log)
+		 Elapsed Time: 27 ms
+	DatabaseThreads
+		 Started: 37538(kronos/device3_intouch.log)
+		 Completed: 37550(kronos/device3_intouch.log)
+		 Elapsed Time: 3273 ms
+	ProtocolService
+		 Started: 37539(kronos/device3_intouch.log)
+		 Completed: 37557(kronos/device3_intouch.log)
+		 Elapsed Time: 9505 ms
+	SoftLoadService
+		 Started: 37540(kronos/device3_intouch.log)
+		 Completed: 37548(kronos/device3_intouch.log)
+		 Elapsed Time: 2877 ms
+	WATCHDOG
+		 Started: 37541(kronos/device3_intouch.log)
+		 Completed: 37545(kronos/device3_intouch.log)
+		 Elapsed Time: 313 ms
+	DiagnosticsService
+		 Started: 37543(kronos/device3_intouch.log)
+		 Completed: 37544(kronos/device3_intouch.log)
+		 Elapsed Time: 147 ms
+
+=== Device boot ===
+38258(kronos/device3_intouch.log) 2014-01-31 14:02:33 Boot Start
+38366(kronos/device3_intouch.log) 2014-01-31 14:05:16 Boot Completed
+	Boot Time: 163000 ms
+
+Services
+	Logging
+		 Started: 38274(kronos/device3_intouch.log)
+		 Completed: 38275(kronos/device3_intouch.log)
+		 Elapsed Time: 265 ms
+	DatabaseInitialize
+		 Started: 38276(kronos/device3_intouch.log)
+		 Completed: 38300(kronos/device3_intouch.log)
+		 Elapsed Time: 31531 ms
+	MessagingService
+		 Started: 38301(kronos/device3_intouch.log)
+		 Completed: 38303(kronos/device3_intouch.log)
+		 Elapsed Time: 6494 ms
+	HealthMonitorService
+		 Started: 38316(kronos/device3_intouch.log)
+		 Completed: 38317(kronos/device3_intouch.log)
+		 Elapsed Time: 146 ms
+	Persistence
+		 Started: 38318(kronos/device3_intouch.log)
+		 Completed: 38319(kronos/device3_intouch.log)
+		 Elapsed Time: 17412 ms
+	ConfigurationService
+		 Started: 38320(kronos/device3_intouch.log)
+		 Completed: 38321(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 38330(kronos/device3_intouch.log)
+		 Completed: 38331(kronos/device3_intouch.log)
+		 Elapsed Time: 1204 ms
+	ThemingService
+		 Started: 38346(kronos/device3_intouch.log)
+		 Completed: 38347(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	PortConfigurationService
+		 Started: 38322(kronos/device3_intouch.log)
+		 Completed: 38323(kronos/device3_intouch.log)
+		 Elapsed Time: 59 ms
+	LandingPadService
+		 Started: 38324(kronos/device3_intouch.log)
+		 Completed: 38325(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	DeviceIOService
+		 Started: 38326(kronos/device3_intouch.log)
+		 Completed: 38327(kronos/device3_intouch.log)
+		 Elapsed Time: 27 ms
+	StagingService
+		 Started: 38334(kronos/device3_intouch.log)
+		 Completed: 38335(kronos/device3_intouch.log)
+		 Elapsed Time: 7714 ms
+	GateService
+		 Started: 38328(kronos/device3_intouch.log)
+		 Completed: 38329(kronos/device3_intouch.log)
+		 Elapsed Time: 3 ms
+	AVFeedbackService
+		 Started: 38332(kronos/device3_intouch.log)
+		 Completed: 38333(kronos/device3_intouch.log)
+		 Elapsed Time: 156 ms
+	ReaderDataService
+		 Started: 38342(kronos/device3_intouch.log)
+		 Completed: 38343(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 38340(kronos/device3_intouch.log)
+		 Completed: 38341(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	StateManager
+		 Started: 38338(kronos/device3_intouch.log)
+		 Completed: 38339(kronos/device3_intouch.log)
+		 Elapsed Time: 2151 ms
+	OfflineSmartviewService
+		 Started: 38344(kronos/device3_intouch.log)
+		 Completed: 38345(kronos/device3_intouch.log)
+		 Elapsed Time: 35 ms
+	DatabaseThreads
+		 Started: 38349(kronos/device3_intouch.log)
+		 Completed: 38362(kronos/device3_intouch.log)
+		 Elapsed Time: 3257 ms
+	ProtocolService
+		 Started: 38350(kronos/device3_intouch.log)
+		 Completed: 38368(kronos/device3_intouch.log)
+		 Elapsed Time: 9223 ms
+	SoftLoadService
+		 Started: 38353(kronos/device3_intouch.log)
+		 Completed: 38358(kronos/device3_intouch.log)
+		 Elapsed Time: 3031 ms
+	WATCHDOG
+		 Started: 38354(kronos/device3_intouch.log)
+		 Completed: 38356(kronos/device3_intouch.log)
+		 Elapsed Time: 359 ms
+	DiagnosticsService
+		 Started: 38352(kronos/device3_intouch.log)
+		 Completed: 38355(kronos/device3_intouch.log)
+		 Elapsed Time: 314 ms
+
+=== Device boot ===
+39150(kronos/device3_intouch.log) 2014-02-01 12:39:38 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+39166(kronos/device3_intouch.log) 2014-02-01 12:42:07 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+39182(kronos/device3_intouch.log) 2014-02-01 14:02:32 Boot Start
+39290(kronos/device3_intouch.log) 2014-02-01 14:05:16 Boot Completed
+	Boot Time: 164000 ms
+
+Services
+	Logging
+		 Started: 39198(kronos/device3_intouch.log)
+		 Completed: 39199(kronos/device3_intouch.log)
+		 Elapsed Time: 273 ms
+	DatabaseInitialize
+		 Started: 39200(kronos/device3_intouch.log)
+		 Completed: 39224(kronos/device3_intouch.log)
+		 Elapsed Time: 31393 ms
+	MessagingService
+		 Started: 39225(kronos/device3_intouch.log)
+		 Completed: 39227(kronos/device3_intouch.log)
+		 Elapsed Time: 6275 ms
+	HealthMonitorService
+		 Started: 39240(kronos/device3_intouch.log)
+		 Completed: 39241(kronos/device3_intouch.log)
+		 Elapsed Time: 188 ms
+	Persistence
+		 Started: 39242(kronos/device3_intouch.log)
+		 Completed: 39243(kronos/device3_intouch.log)
+		 Elapsed Time: 17916 ms
+	ConfigurationService
+		 Started: 39244(kronos/device3_intouch.log)
+		 Completed: 39245(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 39254(kronos/device3_intouch.log)
+		 Completed: 39255(kronos/device3_intouch.log)
+		 Elapsed Time: 852 ms
+	ThemingService
+		 Started: 39270(kronos/device3_intouch.log)
+		 Completed: 39271(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	PortConfigurationService
+		 Started: 39246(kronos/device3_intouch.log)
+		 Completed: 39247(kronos/device3_intouch.log)
+		 Elapsed Time: 59 ms
+	LandingPadService
+		 Started: 39248(kronos/device3_intouch.log)
+		 Completed: 39249(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	DeviceIOService
+		 Started: 39250(kronos/device3_intouch.log)
+		 Completed: 39251(kronos/device3_intouch.log)
+		 Elapsed Time: 25 ms
+	StagingService
+		 Started: 39258(kronos/device3_intouch.log)
+		 Completed: 39259(kronos/device3_intouch.log)
+		 Elapsed Time: 8049 ms
+	GateService
+		 Started: 39252(kronos/device3_intouch.log)
+		 Completed: 39253(kronos/device3_intouch.log)
+		 Elapsed Time: 3 ms
+	AVFeedbackService
+		 Started: 39256(kronos/device3_intouch.log)
+		 Completed: 39257(kronos/device3_intouch.log)
+		 Elapsed Time: 153 ms
+	ReaderDataService
+		 Started: 39266(kronos/device3_intouch.log)
+		 Completed: 39267(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 39264(kronos/device3_intouch.log)
+		 Completed: 39265(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	StateManager
+		 Started: 39262(kronos/device3_intouch.log)
+		 Completed: 39263(kronos/device3_intouch.log)
+		 Elapsed Time: 2140 ms
+	OfflineSmartviewService
+		 Started: 39268(kronos/device3_intouch.log)
+		 Completed: 39269(kronos/device3_intouch.log)
+		 Elapsed Time: 21 ms
+	DatabaseThreads
+		 Started: 39273(kronos/device3_intouch.log)
+		 Completed: 39286(kronos/device3_intouch.log)
+		 Elapsed Time: 3318 ms
+	ProtocolService
+		 Started: 39274(kronos/device3_intouch.log)
+		 Completed: 39292(kronos/device3_intouch.log)
+		 Elapsed Time: 8724 ms
+	SoftLoadService
+		 Started: 39275(kronos/device3_intouch.log)
+		 Completed: 39285(kronos/device3_intouch.log)
+		 Elapsed Time: 3279 ms
+	WATCHDOG
+		 Started: 39276(kronos/device3_intouch.log)
+		 Completed: 39280(kronos/device3_intouch.log)
+		 Elapsed Time: 392 ms
+	DiagnosticsService
+		 Started: 39278(kronos/device3_intouch.log)
+		 Completed: 39279(kronos/device3_intouch.log)
+		 Elapsed Time: 357 ms
+
+=== Device boot ===
+40288(kronos/device3_intouch.log) 2014-02-02 14:02:39 Boot Start
+40397(kronos/device3_intouch.log) 2014-02-02 14:05:31 Boot Completed
+	Boot Time: 172000 ms
+
+Services
+	Logging
+		 Started: 40304(kronos/device3_intouch.log)
+		 Completed: 40305(kronos/device3_intouch.log)
+		 Elapsed Time: 301 ms
+	DatabaseInitialize
+		 Started: 40306(kronos/device3_intouch.log)
+		 Completed: 40330(kronos/device3_intouch.log)
+		 Elapsed Time: 31693 ms
+	MessagingService
+		 Started: 40331(kronos/device3_intouch.log)
+		 Completed: 40333(kronos/device3_intouch.log)
+		 Elapsed Time: 5915 ms
+	HealthMonitorService
+		 Started: 40347(kronos/device3_intouch.log)
+		 Completed: 40348(kronos/device3_intouch.log)
+		 Elapsed Time: 205 ms
+	Persistence
+		 Started: 40349(kronos/device3_intouch.log)
+		 Completed: 40350(kronos/device3_intouch.log)
+		 Elapsed Time: 19870 ms
+	ConfigurationService
+		 Started: 40351(kronos/device3_intouch.log)
+		 Completed: 40352(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 40355(kronos/device3_intouch.log)
+		 Completed: 40356(kronos/device3_intouch.log)
+		 Elapsed Time: 986 ms
+	ThemingService
+		 Started: 40353(kronos/device3_intouch.log)
+		 Completed: 40354(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	PortConfigurationService
+		 Started: 40359(kronos/device3_intouch.log)
+		 Completed: 40360(kronos/device3_intouch.log)
+		 Elapsed Time: 82 ms
+	LandingPadService
+		 Started: 40357(kronos/device3_intouch.log)
+		 Completed: 40358(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	DeviceIOService
+		 Started: 40361(kronos/device3_intouch.log)
+		 Completed: 40362(kronos/device3_intouch.log)
+		 Elapsed Time: 29 ms
+	StagingService
+		 Started: 40363(kronos/device3_intouch.log)
+		 Completed: 40364(kronos/device3_intouch.log)
+		 Elapsed Time: 9763 ms
+	GateService
+		 Started: 40375(kronos/device3_intouch.log)
+		 Completed: 40376(kronos/device3_intouch.log)
+		 Elapsed Time: 3 ms
+	AVFeedbackService
+		 Started: 40371(kronos/device3_intouch.log)
+		 Completed: 40372(kronos/device3_intouch.log)
+		 Elapsed Time: 154 ms
+	ReaderDataService
+		 Started: 40369(kronos/device3_intouch.log)
+		 Completed: 40370(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 40377(kronos/device3_intouch.log)
+		 Completed: 40378(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	StateManager
+		 Started: 40367(kronos/device3_intouch.log)
+		 Completed: 40368(kronos/device3_intouch.log)
+		 Elapsed Time: 2550 ms
+	OfflineSmartviewService
+		 Started: 40373(kronos/device3_intouch.log)
+		 Completed: 40374(kronos/device3_intouch.log)
+		 Elapsed Time: 23 ms
+	DatabaseThreads
+		 Started: 40380(kronos/device3_intouch.log)
+		 Completed: 40393(kronos/device3_intouch.log)
+		 Elapsed Time: 3367 ms
+	ProtocolService
+		 Started: 40385(kronos/device3_intouch.log)
+		 Completed: 40399(kronos/device3_intouch.log)
+		 Elapsed Time: 9996 ms
+	SoftLoadService
+		 Started: 40384(kronos/device3_intouch.log)
+		 Completed: 40392(kronos/device3_intouch.log)
+		 Elapsed Time: 3053 ms
+	WATCHDOG
+		 Started: 40382(kronos/device3_intouch.log)
+		 Completed: 40387(kronos/device3_intouch.log)
+		 Elapsed Time: 246 ms
+	DiagnosticsService
+		 Started: 40383(kronos/device3_intouch.log)
+		 Completed: 40386(kronos/device3_intouch.log)
+		 Elapsed Time: 243 ms
+
+=== Device boot ===
+41615(kronos/device3_intouch.log) 2014-02-03 12:35:55 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+41633(kronos/device3_intouch.log) 2014-02-03 12:38:22 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+41648(kronos/device3_intouch.log) 2014-02-03 12:40:48 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+41666(kronos/device3_intouch.log) 2014-02-03 12:43:17 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+41684(kronos/device3_intouch.log) 2014-02-03 12:45:46 Boot Start
+**** Incomplete Boot ****
+
+Services
+	Logging
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseInitialize
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	MessagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	HealthMonitorService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	Persistence
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	CacheService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ThemingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	PortConfigurationService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	LandingPadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DeviceIOService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StagingService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	GateService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	AVFeedbackService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ReaderDataService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	BellService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	StateManager
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	OfflineSmartviewService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DatabaseThreads
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	ProtocolService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	SoftLoadService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	WATCHDOG
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+	DiagnosticsService
+		 Started: Not started(kronos/device3_intouch.log)
+		 Completed: Not completed(kronos/device3_intouch.log)
+		 Elapsed Time:
+
+	*** Services not successfully started: Logging, DatabaseInitialize, 
+MessagingService, HealthMonitorService, Persistence, ConfigurationService, 
+CacheService, ThemingService, PortConfigurationService, LandingPadService, 
+DeviceIOService, StagingService, GateService, AVFeedbackService, 
+ReaderDataService, BellService, StateManager, OfflineSmartviewService, 
+DatabaseThreads, ProtocolService, SoftLoadService, WATCHDOG, 
+DiagnosticsService
+
+=== Device boot ===
+41694(kronos/device3_intouch.log) 2014-02-03 14:02:34 Boot Start
+41802(kronos/device3_intouch.log) 2014-02-03 14:05:18 Boot Completed
+	Boot Time: 164000 ms
+
+Services
+	Logging
+		 Started: 41710(kronos/device3_intouch.log)
+		 Completed: 41711(kronos/device3_intouch.log)
+		 Elapsed Time: 282 ms
+	DatabaseInitialize
+		 Started: 41712(kronos/device3_intouch.log)
+		 Completed: 41736(kronos/device3_intouch.log)
+		 Elapsed Time: 31486 ms
+	MessagingService
+		 Started: 41737(kronos/device3_intouch.log)
+		 Completed: 41739(kronos/device3_intouch.log)
+		 Elapsed Time: 5674 ms
+	HealthMonitorService
+		 Started: 41752(kronos/device3_intouch.log)
+		 Completed: 41753(kronos/device3_intouch.log)
+		 Elapsed Time: 196 ms
+	Persistence
+		 Started: 41754(kronos/device3_intouch.log)
+		 Completed: 41755(kronos/device3_intouch.log)
+		 Elapsed Time: 16924 ms
+	ConfigurationService
+		 Started: 41756(kronos/device3_intouch.log)
+		 Completed: 41757(kronos/device3_intouch.log)
+		 Elapsed Time: 0 ms
+	CacheService
+		 Started: 41766(kronos/device3_intouch.log)
+		 Completed: 41767(kronos/device3_intouch.log)
+		 Elapsed Time: 805 ms
+	ThemingService
+		 Started: 41782(kronos/device3_intouch.log)
+		 Completed: 41783(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	PortConfigurationService
+		 Started: 41758(kronos/device3_intouch.log)
+		 Completed: 41759(kronos/device3_intouch.log)
+		 Elapsed Time: 63 ms
+	LandingPadService
+		 Started: 41760(kronos/device3_intouch.log)
+		 Completed: 41761(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	DeviceIOService
+		 Started: 41762(kronos/device3_intouch.log)
+		 Completed: 41763(kronos/device3_intouch.log)
+		 Elapsed Time: 19 ms
+	StagingService
+		 Started: 41770(kronos/device3_intouch.log)
+		 Completed: 41771(kronos/device3_intouch.log)
+		 Elapsed Time: 7859 ms
+	GateService
+		 Started: 41764(kronos/device3_intouch.log)
+		 Completed: 41765(kronos/device3_intouch.log)
+		 Elapsed Time: 3 ms
+	AVFeedbackService
+		 Started: 41768(kronos/device3_intouch.log)
+		 Completed: 41769(kronos/device3_intouch.log)
+		 Elapsed Time: 156 ms
+	ReaderDataService
+		 Started: 41778(kronos/device3_intouch.log)
+		 Completed: 41779(kronos/device3_intouch.log)
+		 Elapsed Time: 2 ms
+	BellService
+		 Started: 41776(kronos/device3_intouch.log)
+		 Completed: 41777(kronos/device3_intouch.log)
+		 Elapsed Time: 1 ms
+	StateManager
+		 Started: 41774(kronos/device3_intouch.log)
+		 Completed: 41775(kronos/device3_intouch.log)
+		 Elapsed Time: 2138 ms
+	OfflineSmartviewService
+		 Started: 41780(kronos/device3_intouch.log)
+		 Completed: 41781(kronos/device3_intouch.log)
+		 Elapsed Time: 50 ms
+	DatabaseThreads
+		 Started: 41785(kronos/device3_intouch.log)
+		 Completed: 41798(kronos/device3_intouch.log)
+		 Elapsed Time: 3342 ms
+	ProtocolService
+		 Started: 41786(kronos/device3_intouch.log)
+		 Completed: 41804(kronos/device3_intouch.log)
+		 Elapsed Time: 8584 ms
+	SoftLoadService
+		 Started: 41787(kronos/device3_intouch.log)
+		 Completed: 41795(kronos/device3_intouch.log)
+		 Elapsed Time: 2690 ms
+	WATCHDOG
+		 Started: 41788(kronos/device3_intouch.log)
+		 Completed: 41793(kronos/device3_intouch.log)
+		 Elapsed Time: 346 ms
+	DiagnosticsService
+		 Started: 41790(kronos/device3_intouch.log)
+		 Completed: 41792(kronos/device3_intouch.log)
+		 Elapsed Time: 336 ms
+
