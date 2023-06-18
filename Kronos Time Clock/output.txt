@@ -1,2 +1,0 @@
-(log.c.166) server started
-oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:9080
