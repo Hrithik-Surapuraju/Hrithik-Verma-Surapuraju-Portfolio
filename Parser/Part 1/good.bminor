@@ -1,0 +1,6 @@
+x: integer; // this is a comment. 
+bool:boolean = true;
+bool:boolean = false;
+bool = 5 > 4;
+arr: array = {1, 2, 3, 4};
+_test_var: string = "test";
